@@ -1,0 +1,7 @@
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\bin\Debug\TPQualite-VS.exe.config
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\bin\Debug\TPQualite-VS.exe
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\bin\Debug\TPQualite-VS.pdb
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\obj\Debug\TPQualite-VS.csprojResolveAssemblyReference.cache
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\obj\Debug\TPQualite-VS.csproj.CoreCompileInputs.cache
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\obj\Debug\TPQualite-VS.exe
+C:\Users\Ghaith\source\repos\TPQualite-VS\TPQualite-VS\obj\Debug\TPQualite-VS.pdb
